@@ -1,13 +1,13 @@
 //1.
 // let name = prompt("Enter your name");
 // alert("Hello " + name);
-0,0,0,0
+
 //2.
 // const year = 2025;
 // let yearBorn = prompt("Enter your year: ");
 // let resultAge = year - yearBorn;
 // alert("Your age is " + resultAge);
-
+олололо
 
 //3.
 
