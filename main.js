@@ -2,11 +2,11 @@
 // let name = prompt("Enter your name");
 // alert("Hello " + name);
 
-2.
-const year = 2025;
-let yearBorn = prompt("Enter your year: ");
-let resultAge = year - yearBorn;
-alert("Your age is " + resultAge);
+// 2.
+// const year = 2025;
+// let yearBorn = prompt("Enter your year: ");
+// let resultAge = year - yearBorn;
+// alert("Your age is " + resultAge);
 
 
 //3.
@@ -26,3 +26,8 @@ alert("Your age is " + resultAge);
 // let time = prompt("Enter a time: ");
 // let speed = distance / time;
 // alert("The speed you need to travel is = " + speed + " km/h");
+
+
+//6.
+let dollar = prompt("Enter dollar: ");
+const 
