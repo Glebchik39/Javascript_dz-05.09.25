@@ -29,5 +29,13 @@
 
 
 //6.
-let dollar = prompt("Enter dollar: ");
-const 
+// const rate = 0.92;
+// let dollar = prompt("Enter dollar: ");
+// let euros = dollar * rate;
+// alert("Euros: " + euros);
+
+//7.
+let Flash_drive_capacity = prompt("Enter Flash drive capacity in gigabyte: ");
+let file = 820;
+let result = (Flash_drive_capacity * 1000) / file;
+alert("This many files of 820 megabytes each can fit on the flash drive: " + result);
